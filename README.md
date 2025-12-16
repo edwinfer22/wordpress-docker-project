@@ -26,8 +26,13 @@ This project runs a WordPress site using Docker and Docker Compose. It includes 
     Abre tu navegador y ve a `http://localhost:8000`. Verás la página de instalación de WordPress. Sigue las instrucciones para configurar el título del sitio, tu usuario y contraseña.
 
     ![Pantalla de Instalación de WordPress](images/Wordpress.jpg)
+    *Esta es la pantalla inicial de instalación de WordPress.*
+
     ![Segunda Imagen de WordPress](images/Wordpress1.jpg)
+    *Aquí se configuran los detalles del sitio.*
+
     ![Tercera Imagen de WordPress](images/Wordpress2.jpg)
+    *El menu.*
 
 4.  **¡Listo!**
     Tu sitio de WordPress está funcionando.
