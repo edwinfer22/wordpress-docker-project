@@ -1,0 +1,10 @@
+# Docker
+.docker/
+db_data/
+
+# Environment variables
+.env
+
+# Dependencies
+/node_modules
+/vendor
