@@ -27,6 +27,7 @@ This project runs a WordPress site using Docker and Docker Compose. It includes 
 
     ![Pantalla de Instalación de WordPress](images/Wordpress.jpg)
     ![Segunda Imagen de WordPress](images/Wordpress1.jpg)
+    ![Tercera Imagen de WordPress](images/Wordpress2.jpg)
 
 4.  **¡Listo!**
     Tu sitio de WordPress está funcionando.
